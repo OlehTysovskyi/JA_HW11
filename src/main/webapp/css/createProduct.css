@@ -1,0 +1,23 @@
+/*product*/
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-fluid-row-wrapper{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product-btn-submit{
+    background: #4CAF50 !important;
+    border-color: #4CAF50 !important;
+}
+
+.product-btn-submit:hover{
+    background: #3caf41 !important;
+    border-color: #3caf41 !important;
+}
+
